@@ -20,12 +20,12 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "about"
+name = "Sobre mi"
 pre = "#"
 url = "about"
 weight = 1
 [[menu.main]]
-name = "portfolio"
+name = "Arte"
 pre = "#"
 url = "portfolio"
 weight = 3
