@@ -5,10 +5,10 @@ portfolio:
   portfolio_item :
     # portfolio item loop
     - name : Tagometro
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+      image : /images/team/team-3.jpg
+      image_webp : /images/team/team-3.webp
       categories : ["design"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Soy el brother.
       link : "https://themefisher.com"
       
     # portfolio item loop
