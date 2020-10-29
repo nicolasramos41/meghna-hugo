@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : fotografias que me encantan
+  title : fotografias
   portfolio_item :
     # portfolio item loop
     - name : Tag Design
