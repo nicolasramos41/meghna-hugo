@@ -4,10 +4,10 @@ portfolio:
   title : fotografias
   portfolio_item :
     # portfolio item loop
-    - name : Tagometro
+    - name : Compañero
       image : /images/team/team-3.jpg
       image_webp : /images/team/team-3.webp
-      categories : ["design"]
+      categories : ["diseño"]
       content : Soy el brother.
       link : "https://themefisher.com"
       
