@@ -1,4 +1,4 @@
-baseURL = "madedeferari.netlify.com"
+baseURL = "madedeferari"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
