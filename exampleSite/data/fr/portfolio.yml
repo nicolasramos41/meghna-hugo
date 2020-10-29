@@ -3,6 +3,13 @@ portfolio:
   enable: true
   title: Fotografias
   portfolio_item:
+  - name: Yo
+    image: "/images/team/team-4.webp"
+    image_webp: ''
+    categories:
+    - design
+    content: fwfwwfqw
+    link: ''
   - name: Mi cambio
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
