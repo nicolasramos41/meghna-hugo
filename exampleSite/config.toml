@@ -20,23 +20,23 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "portfolio"
-pre = "#"
-url = "portfolio"
-weight = 2
-[[menu.main]]
 name = "about"
 pre = "#"
 url = "about"
 weight = 1
+[[menu.main]]
+name = "portfolio"
+pre = "#"
+url = "portfolio"
+weight = 3
 [params]
-author = "Themefisher"
+author = "Nicolás Ramos"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "C:\\Users\\nicol\\OneDrive\\Escritorio\\Placeit\\Placeit\\HUSTLE"
 post_share = true
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 [params.map]
 enable = false
@@ -69,23 +69,11 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
-preloader = "images/logo.png"
+enable = true
+preloader = "C:\\Users\\nicol\\OneDrive\\Escritorio\\Placeit\\Placeit\\HUSTLE"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
+icon = "ti-instagram"
+link = ""
 [[params.social]]
 icon = "ti-pinterest"
 link = "#"
