@@ -4,7 +4,7 @@ portfolio:
   title : fotografias
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Tagometro
       image : images/portfolio/portfolio-1.jpg
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
