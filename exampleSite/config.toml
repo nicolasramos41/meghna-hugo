@@ -33,7 +33,7 @@ weight = 3
 author = "Nicolás Ramos"
 description = "Huntley"
 google_analytics_id = ""
-logo = "C:\\Users\\nicol\\OneDrive\\Escritorio\\Placeit\\Placeit\\HUSTLE"
+logo = "/images/faviconmdf.png"
 post_share = true
 [params.cookies]
 enable = true
@@ -70,7 +70,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "/images/favicon.png"
+preloader = "/images/faviconmdf.png"
 [[params.social]]
 icon = "ti-instagram"
 link = ""
