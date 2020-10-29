@@ -33,7 +33,7 @@ weight = 3
 author = "Nicolás Ramos"
 description = "Huntley"
 google_analytics_id = ""
-logo = "/images/faviconmdfc.png"
+logo = "/images/favicon.png"
 post_share = true
 [params.cookies]
 enable = true
