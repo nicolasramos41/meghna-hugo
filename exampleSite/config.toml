@@ -70,7 +70,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "C:\\Users\\nicol\\OneDrive\\Escritorio\\Placeit\\Placeit\\HUSTLE"
+preloader = "/images/favicon.png"
 [[params.social]]
 icon = "ti-instagram"
 link = ""
