@@ -73,7 +73,7 @@ enable = true
 preloader = "/images/precarga.png"
 [[params.social]]
 icon = "ti-instagram"
-link = ""
+link = "https://www.instagram.com/madedeferari/"
 [[params.social]]
 icon = "ti-pinterest"
 link = "#"
