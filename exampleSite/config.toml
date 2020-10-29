@@ -31,9 +31,9 @@ url = "portfolio"
 weight = 3
 [params]
 author = "Nicolás Ramos"
-description = "Huntley"
+description = "Para la Made"
 google_analytics_id = ""
-logo = "/images/favicon.png"
+logo = "/images/madeleine-firma-p.png"
 post_share = true
 [params.cookies]
 enable = true
