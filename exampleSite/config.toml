@@ -1,10 +1,10 @@
-baseURL = "madedeferari"
+baseURL = "https://madeart.site/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
-theme = "Madeleine"
-title = "Madeleine"
+theme = "Made Art"
+title = "Made Art"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
