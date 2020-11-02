@@ -1,78 +1,73 @@
-#################################### portfolio ###############################
+---
 portfolio:
-  enable : true
-  title : fotografias
-  portfolio_item :
-    # portfolio item loop
-    - name : Mujer de negro
-      image : /images/1.jpg
-      image_webp : /images/1.webp
-      categories : ["Personas"]
-      content : 1era foto de la memen
-      link : "https://www.pinterest.cl/pin/518617713344424020/"
-      
-   # portfolio item loop
-    - name : Mujer africana
-      image : /images/2.jpg
-      image_webp : /images/2.webp
-      categories : ["Personas"]
-      content : 2da foto de la memen
-      link : "https://www.pinterest.cl/pin/518617713344533472/"
-      
-   # portfolio item loop
-    - name : Mujer de amarillo
-      image : /images/3.jpg
-      image_webp : /images/3.webp
-      categories : ["Personas"]
-      content : 3era foto de la memen
-      link : "https://www.pinterest.cl/pin/518617713344533483/"
-      
-   # portfolio item loop
-    - name : Mujer de rojo
-      image : /images/4.jpg
-      image_webp : /images/4.webp
-      categories : ["Personas"]
-      content : 4ta foto de la memen
-      link : "https://www.pinterest.cl/pin/518617713344533470/"
-      
-   # portfolio item loop
-    - name : Mujer palida
-      image : /images/5.jpg
-      image_webp : /images/5.webp
-      categories : ["Personas"]
-      content : 5ta foto de la memen
-      link : "https://www.pinterest.cl/pin/518617713344533468/"  
-      
-   # portfolio item loop
-    - name : Mujer pelirroja
-      image : /images/6.jpg
-      image_webp : /images/6.webp
-      categories : ["Personas"]
-      content : 6ta foto de la memen
-      link : "https://www.pinterest.cl/pin/518617713344424016/"
-      
-      # portfolio item loop
-    - name : Mujer de verde
-      image : /images/7.jpg
-      image_webp : /images/7.webp
-      categories : ["Personas"]
-      content : 7ma foto de la memen
-      link : "https://www.pinterest.cl/pin/518617713344533482/"
-      
-         # portfolio item loop
-    - name : Mujer de palida 2
-      image : /images/8.jpg
-      image_webp : /images/8.webp
-      categories : ["Personas"]
-      content : 8va foto de la memen
-      link : "https://www.pinterest.cl/pin/518617713344533477/"
-      
-         # portfolio item loop
-    - name : Mujer silenciando
-      image : /images/9.jpg
-      image_webp : /images/9.webp
-      categories : ["Personas"]
-      content : 9na foto de la memen
-      link : "https://www.pinterest.cl/pin/518617713344533475/"
-      
-    
+  enable: true
+  title: fotografias
+  portfolio_item:
+  - name: Mujer de negro
+    image: "/images/1.jpg"
+    image_webp: "/images/1.webp"
+    categories:
+    - Personas
+    content: 1era foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344424020/
+  - name: Mujer africana
+    image: "/images/2.jpg"
+    image_webp: "/images/2.webp"
+    categories:
+    - Personas
+    content: 2da foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344533472/
+  - name: Mujer de amarillo
+    image: "/images/3.jpg"
+    image_webp: "/images/3.webp"
+    categories:
+    - Personas
+    content: 3era foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344533483/
+  - name: Mujer de rojo
+    image: "/images/4.jpg"
+    image_webp: "/images/4.webp"
+    categories:
+    - Personas
+    content: 4ta foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344533470/
+  - name: Mujer palida
+    image: "/images/5.jpg"
+    image_webp: "/images/5.webp"
+    categories:
+    - Personas
+    content: 5ta foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344533468/
+  - name: Mujer pelirroja
+    image: "/images/6.jpg"
+    image_webp: "/images/6.webp"
+    categories:
+    - Personas
+    content: 6ta foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344424016/
+  - name: Mujer de verde
+    image: "/images/7.jpg"
+    image_webp: "/images/7.webp"
+    categories:
+    - Personas
+    content: 7ma foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344533482/
+  - name: Mujer de palida 2
+    image: "/images/8.jpg"
+    image_webp: "/images/8.webp"
+    categories:
+    - Personas
+    content: 8va foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344533477/
+  - name: Mujer silenciando
+    image: "/images/9.jpg"
+    image_webp: "/images/9.webp"
+    categories:
+    - Personas
+    content: 9na foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344533475/
+menu:
+  main:
+    name: Arte
+    pre: "#"
+    weight: 2

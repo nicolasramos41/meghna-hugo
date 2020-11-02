@@ -9,3 +9,8 @@ testimonial:
     image_webp: "/images/made-insta.webp"
     date: Nov,2020
     content: La Made
+menu:
+  main:
+    name: Sobre mi
+    pre: "#"
+    weight: 1
