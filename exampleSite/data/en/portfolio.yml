@@ -4,8 +4,8 @@ portfolio:
   title: Fotografias
   portfolio_item:
   - name: Mujer de negro
-    image: "/images/1mod.png"
-    image_webp: "/images/1mod.webp"
+    image: "/images/1.jpg"
+    image_webp: "/images/1.webp"
     categories:
     - Personas
     content: 1era foto de la memen
