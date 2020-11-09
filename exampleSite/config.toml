@@ -7,7 +7,7 @@ theme = "Made Art"
 title = "Made Art"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by Nicolás José Ramos"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
