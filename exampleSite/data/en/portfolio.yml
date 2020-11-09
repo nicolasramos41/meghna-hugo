@@ -66,18 +66,11 @@ portfolio:
     - Personas
     content: 9na foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533475/
-  - name: Mujer silenciando
-    image: "/images/9.jpg"
-    image_webp: "/images/9.webp"
-    categories:
-    - Personas
-    content: 9na foto de la memen
-    link: https://www.pinterest.cl/pin/518617713344533475/
   - name: Mujer mejillas
     image: "/images/mujer.jpg"
     image_webp: "/images/mujer.webp"
     categories:
-    - Arte
+    - Personas
     content: 1 era arte
     link: https://www.pinterest.cl/pin/518617713344533470/
   - name: Madre con su hijo
