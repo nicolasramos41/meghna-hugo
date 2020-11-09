@@ -2,7 +2,7 @@
 portfolio:
   enable: true
   title: Fotografias
-  width: "100%"
+  width: "300%"
   portfolio_item:
   - name: Mujer de negro
     image: "/images/1.jpg"
