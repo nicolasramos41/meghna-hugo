@@ -33,7 +33,7 @@ weight = 3
 author = "Nicolás Ramos"
 description = "Para la Made"
 google_analytics_id = ""
-logo = "/images/madeleine-firma-p.png"
+logo = "/images/madeleine-firma-o.png"
 post_share = true
 [params.cookies]
 enable = true
