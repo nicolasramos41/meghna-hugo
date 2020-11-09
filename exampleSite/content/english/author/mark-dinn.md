@@ -1,6 +1,6 @@
 ---
 title: Madeleine De Ferari
-image: ''
+image: '/images/made-insta.jpg'
 email: madeart.site
 social:
 - icon: ti-facebook
