@@ -13,6 +13,10 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[menu.main]]
+name = "La Made"
+url = "https://madeart.site/#testimonial"
+weight = 2
+[[menu.main]]
 name = "Arte"
 pre = "#"
 url = "portfolio"
