@@ -2,11 +2,10 @@
 portfolio:
   enable: true
   title: Fotografias
-  width: "100%"
   portfolio_item:
   - name: Mujer de negro
-    image: "/images/1.jpg"
-    image_webp: "/images/1.webp"
+    image: "/images/1mod.png"
+    image_webp: "/images/1mod.webp"
     categories:
     - Personas
     content: 1era foto de la memen
