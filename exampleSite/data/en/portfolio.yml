@@ -3,6 +3,7 @@ portfolio:
   enable: true
   title: fotografias
   portfolio_item:
+  
   - name: Mujer de negro
     image: "/images/1.jpg"
     image_webp: "/images/1.webp"
@@ -10,6 +11,7 @@ portfolio:
     - Personas
     content: 1era foto de la memen
     link: https://www.pinterest.cl/pin/518617713344424020/
+    
   - name: Mujer africana
     image: "/images/2.jpg"
     image_webp: "/images/2.webp"
@@ -17,6 +19,7 @@ portfolio:
     - Personas
     content: 2da foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533472/
+    
   - name: Mujer de amarillo
     image: "/images/3.jpg"
     image_webp: "/images/3.webp"
@@ -24,6 +27,7 @@ portfolio:
     - Personas
     content: 3era foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533483/
+    
   - name: Mujer de rojo
     image: "/images/4.jpg"
     image_webp: "/images/4.webp"
@@ -31,6 +35,7 @@ portfolio:
     - Personas
     content: 4ta foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533470/
+    
   - name: Mujer palida
     image: "/images/5.jpg"
     image_webp: "/images/5.webp"
@@ -38,6 +43,7 @@ portfolio:
     - Personas
     content: 5ta foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533468/
+    
   - name: Mujer pelirroja
     image: "/images/6.jpg"
     image_webp: "/images/6.webp"
@@ -45,6 +51,7 @@ portfolio:
     - Personas
     content: 6ta foto de la memen
     link: https://www.pinterest.cl/pin/518617713344424016/
+    
   - name: Mujer de verde
     image: "/images/7.jpg"
     image_webp: "/images/7.webp"
@@ -52,6 +59,7 @@ portfolio:
     - Personas
     content: 7ma foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533482/
+    
   - name: Mujer de palida 2
     image: "/images/8.jpg"
     image_webp: "/images/8.webp"
@@ -59,6 +67,7 @@ portfolio:
     - Personas
     content: 8va foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533477/
+    
   - name: Mujer silenciando
     image: "/images/9.jpg"
     image_webp: "/images/9.webp"
@@ -66,6 +75,89 @@ portfolio:
     - Personas
     content: 9na foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533475/
+    
+  - name: Mujer silenciando
+    image: "/images/9.jpg"
+    image_webp: "/images/9.webp"
+    categories:
+    - Personas
+    content: 9na foto de la memen
+    link: https://www.pinterest.cl/pin/518617713344533475/
+    
+    
+  - name: Mujer mejillas
+    image: "/images/mujer.jpg"
+    image_webp: "/images/mujer.webp"
+    categories:
+    - Arte
+    content: 1 era arte
+    link: https://www.pinterest.cl/pin/518617713344533470/
+    
+  - name: Madre con su hijo
+    image: "/images/mano-pies.jpg"
+    image_webp: "/images/mano-pies.webp"
+    categories:
+    - Arte
+    content: 2da arte
+    link: https://www.pinterest.cl/pin/518617713344533468/
+    
+  - name: Old West
+    image: "/images/cactus.jpg"
+    image_webp: "/images/cactus.webp"
+    categories:
+    - Arte
+    content: 3era arte
+    link: https://www.pinterest.cl/pin/518617713344424016/
+    
+  - name: Mujer pintada
+    image: "/images/mujer-pintada.jpg"
+    image_webp: "/images/mujer-pintada.webp"
+    categories:
+    - Arte
+    content: 4ta arte
+    link: https://www.pinterest.cl/pin/518617713344533482/
+    
+  - name: Paisaje
+    image: "/images/paisaje.jpg"
+    image_webp: "/images/paisaje.webp"
+    categories:
+    - Personas
+    content: 5ta arte
+    link: https://www.pinterest.cl/pin/518617713344533477/
+    
+  - name: Mujer mar
+    image: "/images/mujer-mar.jpg"
+    image_webp: "/images/mujer-mar.webp"
+    categories:
+    - Arte
+    content: 6ta arte
+    link: https://www.pinterest.cl/pin/518617713344533475/
+    
+  - name: Cuerpo humano
+    image: "/images/cuerpo-med.jpg"
+    image_webp: "/images/cuerpo-med.webp"
+    categories:
+    - Arte
+    content: 7ma arte
+    link: https://www.pinterest.cl/pin/518617713344533475/
+    
+  - name: Luna
+    image: "/images/luna.jpg"
+    image_webp: "/images/luna.webp"
+    categories:
+    - Arte
+    content: 8va arte
+    link: https://www.pinterest.cl/pin/518617713344533475/
+    
+  - name: Mujer con su hijo
+    image: "/images/mano-guagua.jpg"
+    image_webp: "/images/mano-guagua.webp"
+    categories:
+    - Arte
+    content: 9na arte
+    link: https://www.pinterest.cl/pin/518617713344533475/
+        
+    
 menu:
   main:
     name: Arte
