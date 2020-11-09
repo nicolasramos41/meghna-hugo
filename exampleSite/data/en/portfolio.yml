@@ -3,7 +3,6 @@ portfolio:
   enable: true
   title: fotografias
   portfolio_item:
-  
   - name: Mujer de negro
     image: "/images/1.jpg"
     image_webp: "/images/1.webp"
