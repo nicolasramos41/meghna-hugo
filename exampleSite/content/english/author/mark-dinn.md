@@ -1,7 +1,7 @@
 ---
 title: Madeleine De Ferari
 image: ''
-email: email2@example.org
+email: madeart.site
 social:
 - icon: ti-facebook
   link: "#"
@@ -11,5 +11,4 @@ social:
   link: "#"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+Feliz cumpleaños linda, ojalá lo estes pasando muy bien y disfrutando mis regalos! Te quiero!
