@@ -13,10 +13,6 @@ languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[menu.main]]
-name = "La Made"
-url = "https://madeart.site/#about"
-weight = 2
-[[menu.main]]
 name = "Arte"
 pre = "#"
 url = "portfolio"
@@ -25,7 +21,7 @@ weight = 1
 author = "Nicolás Ramos"
 description = "Para la Made"
 google_analytics_id = ""
-logo = "/images/madeleine-firma-o.png"
+logo = "/images/precarga.png"
 post_share = true
 [params.cookies]
 enable = true
