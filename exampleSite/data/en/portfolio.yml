@@ -148,9 +148,9 @@ portfolio:
     content: 2da lugares
     link: https://www.pinterest.cl/pin/518617713344533468/
     
-  - name: Rusia
-    image: "/images/Lugares y Arquitectura/Rusia.jpg"
-    image_webp: "/images/Lugares y Arquitectura/webp/Rusia.webp"
+  - name: Rusia 2
+    image: "/images/Lugares y Arquitectura/Rusia 2.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Rusia 2.webp"
     categories:
     - Lugares y Arquitectura
     content: 3era lugares
@@ -196,9 +196,9 @@ portfolio:
     content: 8va lugares
     link: https://www.pinterest.cl/pin/518617713344533475/
     
-  - name: Rusia 2
-    image: "/images/Lugares y Arquitectura/Rusia 2.jpg"
-    image_webp: "/images/Lugares y Arquitectura/webp/Rusia 2.webp"
+  - name: Rusia
+    image: "/images/Lugares y Arquitectura/Rusia.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Rusia.webp"
     categories:
     - Lugares y Arquitectura
     content: 9na lugares
