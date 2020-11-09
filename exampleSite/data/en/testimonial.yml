@@ -13,4 +13,4 @@ menu:
   main:
     name: Sobre mi
     pre: "#"
-    weight: 2
+    weight: 1
