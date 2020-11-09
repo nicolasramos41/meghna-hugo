@@ -3,8 +3,6 @@ portfolio:
   enable: true
   title: Fotografias
   portfolio_item:
-  
-  # portfolio item loop
   - name: Mujer de negro
     image: "/images/1.jpg"
     image_webp: "/images/1.webp"
@@ -12,8 +10,6 @@ portfolio:
     - Personas
     content: 1era foto de la memen
     link: https://www.pinterest.cl/pin/518617713344424020/
-    
-    # portfolio item loop
   - name: Mujer africana
     image: "/images/2.jpg"
     image_webp: "/images/2.webp"
@@ -21,8 +17,6 @@ portfolio:
     - Personas
     content: 2da foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533472/
-    
-    # portfolio item loop
   - name: Mujer de amarillo
     image: "/images/3.jpg"
     image_webp: "/images/3.webp"
@@ -30,8 +24,6 @@ portfolio:
     - Personas
     content: 3era foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533483/
-    
-    # portfolio item loop
   - name: Mujer de rojo
     image: "/images/4.jpg"
     image_webp: "/images/4.webp"
@@ -39,8 +31,6 @@ portfolio:
     - Personas
     content: 4ta foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533470/
-    
-    # portfolio item loop
   - name: Mujer palida
     image: "/images/5.jpg"
     image_webp: "/images/5.webp"
@@ -48,8 +38,6 @@ portfolio:
     - Personas
     content: 5ta foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533468/
-    
-    # portfolio item loop
   - name: Mujer pelirroja
     image: "/images/6.jpg"
     image_webp: "/images/6.webp"
@@ -57,8 +45,6 @@ portfolio:
     - Personas
     content: 6ta foto de la memen
     link: https://www.pinterest.cl/pin/518617713344424016/
-    
-    # portfolio item loop
   - name: Mujer de verde
     image: "/images/7.jpg"
     image_webp: "/images/7.webp"
@@ -66,8 +52,6 @@ portfolio:
     - Personas
     content: 7ma foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533482/
-    
-    # portfolio item loop
   - name: Mujer de palida 2
     image: "/images/8.jpg"
     image_webp: "/images/8.webp"
@@ -75,8 +59,6 @@ portfolio:
     - Personas
     content: 8va foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533477/
-    
-    # portfolio item loop
   - name: Mujer silenciando
     image: "/images/9.jpg"
     image_webp: "/images/9.webp"
@@ -84,8 +66,6 @@ portfolio:
     - Personas
     content: 9na foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533475/
-    
-    # portfolio item loop
   - name: Mujer mejillas
     image: "/images/mujer.jpg"
     image_webp: "/images/mujer.webp"
@@ -93,8 +73,6 @@ portfolio:
     - Arte
     content: 1 era arte
     link: https://www.pinterest.cl/pin/518617713344533470/
-    
-    # portfolio item loop
   - name: Madre con su hijo
     image: "/images/mano-pies.jpg"
     image_webp: "/images/mano-pies.webp"
@@ -102,8 +80,6 @@ portfolio:
     - Arte
     content: 2da arte
     link: https://www.pinterest.cl/pin/518617713344533468/
-    
-    # portfolio item loop
   - name: Old West
     image: "/images/cactus.jpg"
     image_webp: "/images/cactus.webp"
@@ -111,8 +87,6 @@ portfolio:
     - Arte
     content: 3era arte
     link: https://www.pinterest.cl/pin/518617713344424016/
-    
-    # portfolio item loop
   - name: Mujer pintada
     image: "/images/mujer-pintada.jpg"
     image_webp: "/images/mujer-pintada.webp"
@@ -120,8 +94,6 @@ portfolio:
     - Arte
     content: 4ta arte
     link: https://www.pinterest.cl/pin/518617713344533482/
-    
-    # portfolio item loop  
   - name: Paisaje
     image: "/images/paisaje.jpg"
     image_webp: "/images/paisaje.webp"
@@ -129,8 +101,6 @@ portfolio:
     - Arte
     content: 5ta arte
     link: https://www.pinterest.cl/pin/518617713344533477/
-    
-    # portfolio item loop
   - name: Mujer mar
     image: "/images/mujer-mar.jpg"
     image_webp: "/images/mujer-mar.webp"
@@ -138,8 +108,6 @@ portfolio:
     - Arte
     content: 6ta arte
     link: https://www.pinterest.cl/pin/518617713344533475/
-    
-    # portfolio item loop
   - name: Cuerpo humano
     image: "/images/cuerpo-med.jpg"
     image_webp: "/images/cuerpo-med.webp"
@@ -147,8 +115,6 @@ portfolio:
     - Arte
     content: 7ma arte
     link: https://www.pinterest.cl/pin/518617713344533475/
-    
-    # portfolio item loop
   - name: Luna
     image: "/images/luna.jpg"
     image_webp: "/images/luna.webp"
@@ -156,8 +122,6 @@ portfolio:
     - Arte
     content: 8va artes
     link: https://www.pinterest.cl/pin/518617713344533475/
-    
-    # portfolio item loop
   - name: Mujer con su hijo
     image: "/images/mano-guagua.jpg"
     image_webp: "/images/mano-guagua.webp"
@@ -165,10 +129,8 @@ portfolio:
     - Arte
     content: 9na arte
     link: https://www.pinterest.cl/pin/518617713344533475/
-        
-    
 menu:
   main:
     name: Arte
     pre: "#"
-    weight: 5
+    weight: "1"
