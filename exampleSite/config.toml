@@ -1,8 +1,8 @@
 baseURL = "https://madeart.site/"
-disableLanguages = []
+disableLanguages = ["French"]
 disqusShortname = ""
 paginate = "6"
-summaryLength = "15"
+summaryLength = "20"
 theme = "Made Art"
 title = "Made Art"
 [Languages.en]
@@ -19,6 +19,16 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[[menu.main]]
+name = "Sobre mi"
+pre = "#"
+url = "about"
+weight = 1
+[[menu.main]]
+name = "Arte"
+pre = "#"
+url = "portfolio"
+weight = 3
 [params]
 author = "Nicolás Ramos"
 description = "Para la Made"
