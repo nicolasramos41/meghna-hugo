@@ -3,6 +3,7 @@ portfolio:
   enable: true
   title: Fotografias
   portfolio_item:
+  
   - name: Mujer de negro
     image: "/images/1.jpg"
     image_webp: "/images/1.webp"
@@ -66,6 +67,7 @@ portfolio:
     - Personas
     content: 9na foto de la memen
     link: https://www.pinterest.cl/pin/518617713344533475/
+    
   - name: Mujer mejillas
     image: "/images/mujer.jpg"
     image_webp: "/images/mujer.webp"
@@ -129,6 +131,78 @@ portfolio:
     - Arte
     content: 9na arte
     link: https://www.pinterest.cl/pin/518617713344533475/
+    
+  - name: Italia
+    image: "//images/Lugares y Arquitectura/Italia.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Italia.webp"
+    categories:
+    - Lugares y Arquitectura
+    content: 1 era lugares
+    link: https://www.pinterest.cl/pin/518617713344533470/
+    
+  - name: Paris
+    image: "/images/Lugares y Arquitectura/Paris.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Paris.webp"
+    categories:
+    - Lugares y Arquitectura
+    content: 2da lugares
+    link: https://www.pinterest.cl/pin/518617713344533468/
+    
+  - name: Rusia
+    image: "/images/Lugares y Arquitectura/Rusia.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Rusia.webp"
+    categories:
+    - Lugares y Arquitectura
+    content: 3era lugares
+    link: https://www.pinterest.cl/pin/518617713344424016/
+    
+  - name: Mallorca
+    image: "/images/Lugares y Arquitectura/Mallorca.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Mallorca.webp"
+    categories:
+    - Lugares y Arquitectura
+    content: 4ta lugares
+    link: https://www.pinterest.cl/pin/518617713344533482/
+    
+  - name: Dinamarca
+    image: "/images/Lugares y Arquitectura/Dinamarca.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Dinamarca.webp"
+    categories:
+    - Lugares y Arquitectura
+    content: 5ta lugares
+    link: https://www.pinterest.cl/pin/518617713344533477/
+    
+  - name: Grecia
+    image: "/images/Lugares y Arquitectura/Grecia.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Grecia.webp"
+    categories:
+    - Lugares y Arquitectura
+    content: 6ta lugares
+    link: https://www.pinterest.cl/pin/518617713344533475/
+    
+  - name: Austria
+    image: "/images/Lugares y Arquitectura/Austria.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Austria.webp"
+    categories:
+    - Lugares y Arquitectura
+    content: 7ma lugares
+    link: https://www.pinterest.cl/pin/518617713344533475/
+    
+  - name: Barcelona
+    image: "/images/Lugares y Arquitectura/Barcelona.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Barcelona.webp"
+    categories:
+    - Lugares y Arquitectura
+    content: 8va lugares
+    link: https://www.pinterest.cl/pin/518617713344533475/
+    
+  - name: Rusia 2
+    image: "/images/Lugares y Arquitectura/Rusia 2.jpg"
+    image_webp: "/images/Lugares y Arquitectura/webp/Rusia 2.webp"
+    categories:
+    - Lugares y Arquitectura
+    content: 9na lugares
+    link: https://www.pinterest.cl/pin/518617713344533475/    
 menu:
   main:
     name: Arte
