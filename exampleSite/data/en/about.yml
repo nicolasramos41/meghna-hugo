@@ -1,0 +1,17 @@
+  
+---
+testimonial:
+  enable: true
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
+  - name: Madeleine De Ferari
+    image: "/images/made-insta.jpg"
+    image_webp: "/images/made-insta.webp"
+    date: Nov,2020
+    content: La Made
+menu:
+  main:
+    name: Sobre mi
+    pre: "#"
+    weight: 1
