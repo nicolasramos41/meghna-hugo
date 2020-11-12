@@ -1,4 +1,3 @@
-  
 ---
 testimonial:
   enable: true
@@ -9,7 +8,13 @@ testimonial:
     image: "/images/made-insta.jpg"
     image_webp: "/images/made-insta.webp"
     date: Nov,2020
-    content: "Feliz cumpleaños linda, ojalá lo estés pasando muy bien!    ¿Te acuerdasla página que te hice a principio de año para que subas tus diseños?\nQuize ir un paso mas adelante y programarla yo mismo, regalandote un dominio y subiendo un par de fotos que se que te gustan (las saqué de tu pinterest :D).\nEspero te guste mi último regalo, este está en...\nel closet de al medio!  ¡anda a buscarlo!\n:)"
+    content: |-
+      Feliz cumpleaños linda, ojalá lo estés pasando muy bien!
+      ¿Te acuerdas la página que te hice a principio de año para que subas tus diseños?
+      Quise ir un paso mas adelante y programarla yo mismo, regalándote un dominio y subiendo un par de fotos que se que te gustan (las saqué de tu pinterest :D).
+      Espero te guste mi último regalo, este está en...
+      el closet de al medio!  ¡anda a buscarlo!
+      :)
 menu:
   main:
     name: Sobre mi
