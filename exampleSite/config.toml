@@ -7,7 +7,7 @@ theme = "Made Art"
 title = "Made Art"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by Nicolás José Ramos"
+copyright = "Copyright &copy; 2020 Themefisher and Redesigned by Nicolás José Ramos"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
